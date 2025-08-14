@@ -6,7 +6,7 @@
 
 Former English tutor, now an aspiring QA Engineer with skills in manual and API testing. Experienced in creating test cases, reporting bugs, and working with tools like Postman, Qase, TestRail, Jira, and SQL. Passionate about ensuring software quality and continuously learning new testing techniques.
 
-- 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/azhar-kareyeva-ab1331363/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:azhara.kareyeva@gmail.com)
+- 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@azhar_kareyeva-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/azhar-kareyeva-ab1331363/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:azhara.kareyeva@gmail.com)
 
 ---
 
