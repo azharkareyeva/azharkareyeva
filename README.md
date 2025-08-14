@@ -14,7 +14,7 @@ Former English tutor, now an aspiring QA Engineer with skills in manual and API 
 
 - **Postman Collection:** [Starships.postman_collection.json] (https://github.com/azharkareyeva/azharkareyeva/blob/main/Postman/Starships.postman_collection.json)
 - **Qase Test Cases (PDF):** [Starhips_test_cases.pdf] (https://github.com/azharkareyeva/azharkareyeva/blob/main/Qase/Test%20cases.pdf)
-- **Jira Bug Reports (PDF):** [Starships_bug_reports.pdf] (https://github.com/azharkareyeva/azharkareyeva/blob/main/Qase/Test%20cases.pdf)
+- **Jira Bug Reports (PDF):** [Starships_bug_reports.pdf] (https://github.com/azharkareyeva/azharkareyeva/blob/main/Jira/Bug%20reports%20from%20jira.pdf)
 
 ---
 
